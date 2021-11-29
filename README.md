@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eldar</h1>
 <h3 align="center">IT entrepreneur, and developer from Ukraine</h3>
 
-- 🔭 I’m currently operating **99bots**
+- 🔭 I’m currently a CEO of **99bots**
 
 - 🌱 I’m currently learning **Typescript, Node.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **creating Telegram bots**
-
-- 🤝 I’m looking for help with **fast developing projects**
 
 - 👨‍💻 All of my projects are available at [http://www.eldaragayev.com](http://www.eldaragayev.com)
 
