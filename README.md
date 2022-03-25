@@ -1,3 +1,6 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+
 <h1 align="center">Hi 👋, I'm Eldar</h1>
 <h3 align="center">IT entrepreneur, and developer from Ukraine</h3>
 
